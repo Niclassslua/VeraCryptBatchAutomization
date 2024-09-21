@@ -83,3 +83,7 @@ SET desktop_on_encrypted_drive=true
 
 - Ensure that VeraCrypt is installed and accessible via the `%PROGRAMFILES%` path, as the script relies on it to mount the encrypted volume.
 - This script is designed for users who need their Desktop or taskbar refreshed after mounting an encrypted drive, but can be adapted for other purposes.
+
+---
+
+Made with ❤️
